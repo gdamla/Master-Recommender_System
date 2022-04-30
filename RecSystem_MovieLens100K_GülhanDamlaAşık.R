@@ -1,4 +1,4 @@
-# MOVIE RECOMMENDER SYSTEM # GULHAN DAMLA ASIK
+# MOVIE RECOMMENDER SYSTEM
 
 # install required packages 
 install.packages("dplyr", "arules" , "Matrix" , "arulesViz" , "ggplot2")
